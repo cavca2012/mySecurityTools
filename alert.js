@@ -1,1 +1,1 @@
-alert('Level 6');
+window.alert('Level 6');
